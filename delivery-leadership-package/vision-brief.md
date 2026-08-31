@@ -7,7 +7,7 @@
 **Delivery week:** 2
 **Delivery Lead:** Jyoti Kumari
 **Engineering team (represented by):** https://github.com/asc1-student05/evergreen-quote-react-delivery/tree/main/delivery-leadership-package
-**GitHub Project board:** _link_
+**GitHub Project board:** https://github.com/users/asc1-student05/projects/3/views/1?layout_template=board
 
 ## Who is the customer?
 The customer is a first-time insurance shopper, often a new renter, first-time homeowner, or young adult purchasing insurance for the first time. They have been told they need coverage and want a quick estimate before investing time in a lengthy application process. They are typically browsing on a mobile device and comparing multiple providers. Today, their alternative is navigating insurance websites that require extensive personal information, account creation, or email capture before showing any pricing, causing many users to abandon the process and look elsewhere.
