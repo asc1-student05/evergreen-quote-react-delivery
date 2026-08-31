@@ -6,7 +6,7 @@
 **Name:** Evergreen Insurance Quote (Phase 2 React rebuild)
 **Delivery week:** 2
 **Delivery Lead:** Jyoti Kumari
-**Engineering team (represented by):** _link to your Evergreen Quote project repo_
+**Engineering team (represented by):** https://github.com/asc1-student05/evergreen-quote-react-delivery/tree/main/delivery-leadership-package
 **GitHub Project board:** _link_
 
 ## Who is the customer?
