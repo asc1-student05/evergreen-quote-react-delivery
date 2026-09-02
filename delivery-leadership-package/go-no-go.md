@@ -6,7 +6,7 @@
 
 ## CI evidence
 
-- Latest run on `delivery/lead`: green  ·  link: _paste URL_
+- Latest run on `delivery/lead`: green  ·  link: (https://github.com/asc1-student05/evergreen-quote-react-delivery/actions/runs/33594876095/workflow)
 - Workflow file: `.github/workflows/ci.yml`
 - What the workflow actually checked:   
   - Install dependencies
