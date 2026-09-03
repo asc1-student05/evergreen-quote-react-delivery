@@ -10,7 +10,7 @@
 | R5 | Unexpected injects or scope changes reduce available time for priority work. | Jyoti | H | M | Re-prioritize backlog and focus on required deliverables first. | Inject requires significant work that threatens completion of core tasks. |
 | R6 | Delivery leadership documents are incomplete before presentation day. | Jyoti | M | M | Complete artifacts daily instead of waiting until Day 5. | Any required artifact is missing at end of Day 4. |
 | R7 | Late scope change (ZIP-code field request) impacts the team's ability to complete committed delivery goals on schedule. | Jyoti | H | H | Keep focus on the agreed delivery scope and defer non-critical features to a future release. Re-prioritize backlog items as needed. | Additional feature work causes Day 3 or Day 4 deliverables to fall behind schedule. |
-| R8 | Moderate-severity dependency audit finding raises stakeholder concerns or creates uncertainty about release readiness. | Jyoti | M | M | Track the platform team's planned upgrade and monitor for changes in severity. | New information indicates customer-facing impact or the sponsor requests a release hold. |
+
 
 ## How I'll use this register
 
