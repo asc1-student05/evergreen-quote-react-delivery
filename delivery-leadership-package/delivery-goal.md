@@ -4,7 +4,7 @@
 
 ## Goal
 
-> By Thursday, deliver a demonstrable "Evergreen Quote React app" Insurance quote experience for Auto, Home, Travel, and Health insurance with typed data, resilient quote loading, shared state, and green CI, merged to main through a reviewed pull request.
+> By Thursday, deliver a demonstrable "Evergreen Quote React app" Insurance quote experience for Auto, Home, and life insurance with typed data, resilient quote loading, shared state, and green CI, merged to main through a reviewed pull request.
 
 ## "Done" looks like
 
