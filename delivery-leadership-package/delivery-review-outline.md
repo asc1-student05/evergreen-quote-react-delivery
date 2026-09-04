@@ -2,7 +2,7 @@
 
 ## Slide 1: Delivery goal & did we hit it?
 
-- Goal : Deliver a demonstrable "Evergreen Quote React app" Insurance quote experience for Auto, Home, and life insurance with typed data, resilient quote loading, shared state, and green CI, merged to main through a reviewed pull request. 
+- Goal : Deliver a demonstrable "Evergreen Quote React app" Insurance quote experience for Auto, Home, and life insurance with typed data, resilient quote loading, and green CI, merged to main through a reviewed pull request. 
 - Hit? ☑ Yes  ☐ Partially  ☐ No
 - Why: The application was successfully assembled, data loading was implemented, context and hooks were integrated, CI was enabled, and all required leadership deliverables were completed.
 
@@ -69,7 +69,7 @@ My delivery/lead branch is currently passing type-check and build validation, bu
 - Track dependency audit findings earlier.
 - Increase stakeholder communication around scope changes.
 - Expand testing scenarios before release readiness reviews.
-- 
+
 ### Slide 6: Executive Summary
 
 #### Delivery Outcome
